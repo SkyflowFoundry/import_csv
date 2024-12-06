@@ -102,7 +102,7 @@ except SkyflowError as e:
 Using a Terminal session, go to the directory where the script is stored, ensure the input.csv file is in the same directory then run the command below: 
 
 ```bash
-python3 tokenize_csv.py
+python3 import_csv.py
 ```
 
 ### Python "batch" script
@@ -242,7 +242,7 @@ except SkyflowError as e:
 Using a Terminal session, go to the directory where the script is stored, ensure the input.csv file is in the same directory then run the command below: 
 
 ```bash
-python3 tokenize_csv_batch.py
+python3 import_csv_batch.py
 ```
 
 # Learn more
